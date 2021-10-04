@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Highway Driving Lesson",
+    "duration": "3 Month",
+    "price": 299,
+    "image": "https://dl-mag-media.dlgdigitalservices.com/lib/img/How-long-does-it-take-to-learn-to-drive.jpg",
+    "dsc": "In this practice driving environment, speeds range between 55 to 70 mph. Ideally, the teen driver should learn how to drive safely on the highway with a driver’s ed instructor before practicing with a parent. Usually, driving on 3-lane highways with paved shoulders is easier than 2-lane highways without paved shoulders. Begin these highway driving lessons during the day with dry pavement and no adverse weather. Avoid practicing at night, during rush hour."
+  },
+  {
+    "id": 2,
+    "title": "Complete Driving Course",
+    "duration": "8 Month",
+    "price": 650,
+    "image": "https://www.iamexpat.nl/sites/default/files/styles/ogimage_thumb/public/driving-lessons-netherlands.jpg",
+    "dec": "First, let me introduce to you the first-ever comprehensive driving course. I call it the Ultimate Driving Course. It’s for all those who are currently learning to drive and want to become better drivers.It doesn’t matter whether you already have an instructor. The course content is meant to go hand in hand with what your instructor will be showing you.The course contains a series of short precise videos on every subject required to pass the driving test."
+  },
+  {
+    "id": 3,
+    "title": "For International Drivers",
+    "price": 700,
+    "duration": "5 Month",
+    "image": "https://img.youtube.com/vi/3rc5y26d7cA/hqdefault.jpg",
+    "dec": "Driving yourself around, burning up the rubber or cruising along is a feeling many car enthusiasts long for. While the roads in your home country are open to you whenever the need to drive so takes hold of you, those travelling to another country on business or holiday are often unable to rent a car or drive since they do not have a license that is accepted in that country."
+  },
+  {
+    "id": 4,
+    "title": "Pre-Licensing Course",
+    "duration": "6 Month",
+    "price": 499,
+    "image": "https://media.istockphoto.com/photos/instructor-guiding-student-to-drive-car-picture-id1125351656?k=20&m=1125351656&s=612x612&w=0&h=WnR6sKUw56-LuiCOWkD01xffQkabd8ZbA5QGqR5-wvM=",
+    "dec": "The New York Online Pre-Licensing Program is designed for new drivers ages 18 and up who are seeking a New York driver license. Students must have a photo learner permit before starting the course. Your photo permit will arrive in the mail about two weeks after the NYSDMV issues your temporary permit.At this time, the NYSDMV does not allow new drivers seeking a junior driver license Class DJ or junior motorcycle license class MJ to take the pre-licensing course online. These new drivers must complete a 5-hour classroom course."
+  }
+]

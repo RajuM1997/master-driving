@@ -1,0 +1,10 @@
+/* services and services card */
+
+.services {
+    background: rgba(0, 0, 0, 0.856);
+}
+
+.card {
+    transition: 0.5s;
+    border: 1px solid rgb(0, 204, 255);
+}

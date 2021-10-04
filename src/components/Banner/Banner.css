@@ -1,0 +1,52 @@
+/* common button */
+
+.common-btn {
+    background: transparent;
+    padding: 8px 45px;
+    color: #fff;
+    border: 1px solid rgba(0, 195, 255, 0.876);
+    font-weight: 600;
+    font-size: 22px;
+    outline: none;
+    transition: 0.5s;
+}
+
+.common-btn:hover {
+    background: rgba(0, 195, 255, 0.876);
+    color: black;
+}
+
+/* banner section start here */
+
+.banner-section {
+    background-image: url('https://s1.cdn.autoevolution.com/images/news/gallery/mercedes-benz-takes-the-vision-avtr-on-a-road-test-welcome-to-the-future_1.jpg'),
+        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+    height: 100vh;
+    width: 100%;
+    background-blend-mode: overlay;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.banner-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    height: 500px;
+}
+
+.banner-main h1 {
+    font-size: 50px;
+    color: rgba(255, 255, 255, 0.849);
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.banner-main small {
+    color: #fff;
+    font-weight: 500;
+}

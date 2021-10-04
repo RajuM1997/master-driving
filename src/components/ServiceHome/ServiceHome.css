@@ -1,0 +1,21 @@
+/* all card details button and join button style here */
+
+.details-btn {
+    background: rgb(241, 225, 0);
+    padding: 6px 20px;
+    font-size: 14px;
+    font-weight: 500;
+    border: none;
+    border-radius: 5px;
+}
+
+.join-btn {
+    background: rgb(66, 103, 166);
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 6px 20px;
+
+}

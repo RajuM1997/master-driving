@@ -1,0 +1,42 @@
+/* footer style start here */
+
+.footer-section {
+    background: rgb(0, 0, 32);
+    padding-top: 30px;
+    margin-top: 10px;
+}
+
+.col-md-4 h3 {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.col-md-4 ul li {
+    list-style: none;
+    color: blanchedalmond;
+}
+
+.our-categary,
+.our-course,
+.contact,
+.gallary {
+    text-align: center;
+    text-align: justify;
+}
+
+.our-categary ul li {
+    cursor: pointer;
+}
+
+.our-categary,
+.our-course,
+.contact,
+.gallary h3 {
+    padding-bottom: 5px;
+}
+
+.footer-text small {
+    color: #fff;
+    padding-bottom: 5px;
+}

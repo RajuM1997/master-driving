@@ -1,0 +1,25 @@
+/* main service card 7 styling start here */
+
+
+.service .card {
+    color: beige;
+    height: 400px;
+    background: transparent;
+    border: 1px solid rgb(0, 162, 255);
+    transition: 0.5s;
+}
+
+.card:hover {
+    box-shadow: 4px 4px 7px gray;
+}
+
+.card-footer {
+    border: none;
+    background: none;
+}
+
+.service .card img {
+    max-width: 100%;
+    height: 200px;
+
+}
