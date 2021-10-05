@@ -13,8 +13,8 @@ const ServicesHome = () => {
   }, []);
   return (
     <div className="servicesHome">
-      <div className="row  py-5">
-        <h1 className="text-center pb-2">Our Services</h1>
+      <h1 className="text-center py-4">Our Services</h1>
+      <div className="row g-3 ">
         {/* data send to services home component */}
         {servicesHome.map((serviceHome) => (
           <ServiceHome

@@ -20,9 +20,7 @@ const Services = () => {
         <div className="row g-4">
           {/* data send service component */}
           {services.map((service) => (
-            <div className="col-md-4">
-              <Service key={service.id} service={service}></Service>
-            </div>
+            <Service service={service} key={service.id}></Service>
           ))}
         </div>
       </div>

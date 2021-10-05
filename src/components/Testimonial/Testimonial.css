@@ -1,6 +1,6 @@
 /* testimonial img and icon style here */
 .testimonial {
-    background: rgba(0, 0, 0, 0.856);
+    background: rgba(0, 0, 0, 0.904);
 
 }
 
@@ -12,6 +12,11 @@
     background: transparent;
     border: 1px solid rgb(0, 204, 255);
     color: #fff;
+    cursor: pointer;
+}
+
+.testimonial .card:hover {
+    transform: translateY(-10px);
 }
 
 .testimonial .card img {

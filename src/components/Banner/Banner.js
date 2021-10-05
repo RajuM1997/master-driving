@@ -14,10 +14,7 @@ const Banner = () => {
               <i>
                 <h1>Join Our Online Or Offline Course</h1>
               </i>
-              <small>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                Repellat, debitis.
-              </small>
+              <small>International Driving Course Expoler Now</small>
             </div>
             {/* common button */}
             <button className="common-btn">Join Now</button>

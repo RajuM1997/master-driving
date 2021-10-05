@@ -6,7 +6,7 @@ import "./ServiceHome.css";
 const ServiceHome = (props) => {
   const { image, title, duration, price } = props.serviceHome;
   return (
-    <div className="col-md-3">
+    <div className="col-md-3 col-12 searviceHome">
       <div className="card-group">
         <div className="card">
           <img src={image} className="card-img-top" alt="..." />

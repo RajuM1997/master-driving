@@ -1,4 +1,15 @@
 /* navbar style start here */
-.logo h2 {
+.logo h3 {
     color: rgba(255, 255, 255, 0.753);
+    cursor: pointer;
+}
+
+.nav-link {
+    font-size: 17px;
+
+}
+
+.nav-link:hover {
+    color: aqua !important;
+
 }

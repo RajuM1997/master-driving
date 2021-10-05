@@ -2,11 +2,16 @@
 
 
 .service .card {
-    color: beige;
-    height: 400px;
     background: transparent;
+    height: 400px;
+    color: beige;
+    cursor: pointer;
     border: 1px solid rgb(0, 162, 255);
     transition: 0.5s;
+}
+
+.service .card:hover {
+    transform: translateY(-10px)
 }
 
 .card:hover {

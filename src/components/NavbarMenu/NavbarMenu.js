@@ -8,7 +8,7 @@ const NavbarMenu = () => {
       <nav className="navbar navbar-expand-lg navbar-dark">
         <div className="container">
           <div className="logo">
-            <h2>Learn24H</h2>
+            <h3>Master Driving</h3>
           </div>
           <button
             className="navbar-toggler"
